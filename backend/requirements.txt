@@ -1,0 +1,14 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+python-multipart==0.0.9
+pydantic==2.7.0
+moviepy==1.0.3
+numpy==1.26.4
+srt==3.5.3
+pydub==0.25.1
+librosa==0.10.2.post1
+# Heavy/optional; install when needed
+openai-whisper==20231117
+# Aeneas requires system deps on Windows; install separately if available
+#aeneas==1.7.3.0
+
